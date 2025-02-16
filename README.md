@@ -1,5 +1,6 @@
 # **StaffBot** 🚀
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1p7p9.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 Welcome to **StaffBot**, your all-in-one Discord management solution. StaffBot is designed to streamline your server management with powerful moderation commands, advanced AI capabilities, and a suite of additional features.
 
 ## **Key Features** 🌟
