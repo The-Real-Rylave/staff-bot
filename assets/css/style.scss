@@ -1,0 +1,25 @@
+---
+# Only the contents in the file `assets/css/style.scss` will be parsed by Jekyll
+# and transformed into CSS if there is a `---` at the top and bottom of the file.
+---
+
+@import "minima";
+
+/* Custom dark mode styles */
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+a {
+    color: #1e90ff;
+}
+
+.site-title {
+    color: #fff;
+}
+
+.post {
+    background-color: #111;
+    border: 1px solid #333;
+}
