@@ -1,4 +1,4 @@
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1p7p9.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1p7p9.svg)](https://rylave.betteruptime.com/)
 [![GitHub release](https://img.shields.io/github/release/The-Real-Rylave/staff-bot.svg)](https://github.com/The-Real-Rylave/staff-bot/releases/latest)
 [![Discord Server Members](https://img.shields.io/discord/1316922219661627412.svg?label=Discord&logo=discord&color=7289da)](https://discord.com/invite/PcGwx743HD)
 
